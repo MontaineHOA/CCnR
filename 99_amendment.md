@@ -51,7 +51,7 @@ maintenance, repair, or reconstruction of drainage facilities located within sai
 
 ## 4. Common Areas.
 
-The last sentence of Article IV, Section 1 is hereby amended to read:
+The last sentence of Article IV, Section i is hereby amended to read:
 
 The Common Areas are identified as Tracts S, V, AC, AE, AR, U, Z, AB,
 AN, W, and AM, of the Plat of Aldarra Division No. 3; and Tracts AS, AT, Y, 0, and Q, of

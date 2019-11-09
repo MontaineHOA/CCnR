@@ -1,8 +1,8 @@
 IN WITNESS WHEREOF, the undersigned, being the Declarant harem, have
 hereunto set their hand(s) and seal(s) this􀆓 day of t?􀀣 , 2003.
 DECL ARANT
-ALDARRA DEVEL OPMENT L L C, a Washington L1m1ted
-L1ab1lrty Company
+ALDARRA DEVEL OPMENT L L C, a Washington Limited
+Liabilrty Company
 JOHN F. BUCHAN CONSTRUCTION, INC., a Washington
 corporation ("Memb􀀊r") f} _
 􀀄 􀀅􀀆
@@ -37,8 +37,8 @@ COUNTY OF K l N G )
 On this ft day of 0 Ci[ • , 2003, before me, the undersl ed, a n
 and f􀃈 the State of Washington, personally appeared �,.-cu,.� ,
 C􀀖O of CHAFFEY HOMES, INC., a Washington corporation, mber of Aldarra
-Development LLC, a Washington Limited Liability Company that executed the w1th1n and
-f orego1ng instrument, and acknowledged the said instrument to be the free and voluntary act
+Development LLC, a Washington Limited Liability Company that executed the within and
+f oregoing instrument, and acknowledged the said instrument to be the free and voluntary act
 and deed of said corporation, for the uses and purposes therein mentioned, and on oath
 stated that he was authorized to execute the said instrument on behalf of said corporation.
 WITNESS MY HAND AND OFFICIAL SEAL hereto affixed the day and year first
@@ -55,7 +55,7 @@ COUNTY OF K I N G )
 On this 􀁝/ f'J: day of Cl:.1·0°5{: f<.... , 2003, before me, the undersigned, a notary public in
 a,nd for the State of Washington, personally appeared H A1-.">:J..A.. ,.l..6 ��+t ,
 'VfE'􀁞 \IX: ,,J-r of BU RNSTEAD CONSTRUCTION COMPANY, a Washington corporation,
-Member of Aldarra Development LLC, a Washington L1m1ted L1ab1llty Company, that
+Member of Aldarra Development LLC, a Washington Limited Liabillty Company, that
 executed the within and foregoing instrument, and acknowledged the said instrument to be
 the free and voluntary act and deed of said corporation, for the uses and purposes therein
 mentioned, and on oath stated that he was authorized to execute the said instrument on
