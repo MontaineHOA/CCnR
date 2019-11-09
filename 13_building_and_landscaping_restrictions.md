@@ -45,7 +45,7 @@ Lot Owners; or interferes with any retaining and/or keystone wall grids.
 
 (iv) Signs. No signs, billboards, or other advertising structure or device shall be
 displayed to the pubhc outlook on any Lot, except one sign not to exceed four
-(4) square feet m area, may be placed on a Lot to offer the Lot for sale or
+(4) square feet in area, may be placed on a Lot to offer the Lot for sale or
 rent. All such signs shall be of a q uahty equivalent to those used by
 Declarant. Furnished model homes may have more than one sign for
 advertising purposes.
@@ -76,7 +76,7 @@ f rem the adjoining homes, streets, and roadways, and shall not be located at
 the front elevation of the home. This includes, but 1s not hmited to, rooftops.
 The Committee may grant a variance to these location restrictions due to
 satellite reception problems. Any satellite device must be properly screened.
-Any violation of these restrictions may result m the removal of such device, at
+Any violation of these restrictions may result in the removal of such device, at
 the sole expense of the Lot Owner causing the violation, 1f not removed w1thm
 48 hours after the notice of removal requirement has been delivered to the
 Lot Owner causing the violation.

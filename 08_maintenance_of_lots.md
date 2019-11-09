@@ -78,7 +78,7 @@ consistent with maintenance standards of the Montame at Aldarra community, the
 Assoc1at1on shall, upon receipt of written complaint of any Owner, or upon its own 1mtiat1ve,
 and a subsequent investigation, have the right through its agents and employees to enter
 upon the offending Owner's Lot and repair, mamtam and restore the Lot and exterior of the
-improvements on that Lot 1f the Owner shall fail to respond m a manner satisfactory to the
+improvements on that Lot 1f the Owner shall fail to respond in a manner satisfactory to the
 Assoc1at1on within fourteen (14) days after mailing of adequate notice by cert1f1ed mall to the
 last known address of the Owner. The cost of such repair, maintenance or restoration shall
 be assessed against the Lot, and the Assoc1at1on shall have the right to cause to be

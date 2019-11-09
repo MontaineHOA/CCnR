@@ -79,10 +79,10 @@ quorum is present.
 
 In addition to
 the annual and special assessments authorized above, the Declarant, during the
-Development Period, or the Assoc1at1on may levy m any assessment year a special
-assessment for the purpose of defraying, m whole or in part, (1 ) the cost of legal fees and
-costs incurred m legal actions m which the Assoc1at1on 1s a party, (2) the cost of legal fees
-and costs incurred in any action m which a member of either the Board or Committee 1s
+Development Period, or the Assoc1at1on may levy in any assessment year a special
+assessment for the purpose of defraying, in whole or in part, (1 ) the cost of legal fees and
+costs incurred in legal actions in which the Assoc1at1on 1s a party, (2) the cost of legal fees
+and costs incurred in any action in which a member of either the Board or Committee 1s
 named as a party as a result of a decision made or action performed while acting in behalf of
 the Assoc1at1on, or (3) any other reasonable expenses incurred by the Association. Within
 thirty (30) days after adoption by the Board of Directors of the special assessment for legal
@@ -117,7 +117,7 @@ interest at the rate of twelve percent (1 2%) per annum. Each Owner hereby expre
 in the Association or its agents the right and power to bring all actions against such Owner
 personally for the collect1on of such assessments as debts and to enforce hen nghts of the
 Assoc1at1on by all methods available for the enforcement of such liens, including foreclosure
-by an action brought m the name of the Assoc1at1on in hke manner as a mortgage of real
+by an action brought in the name of the Assoc1at1on in hke manner as a mortgage of real
 property. Such Owner hereby expressly grants to the Assoc1at1on the power of sale in
 connection with such liens. The hens provided for in this section shall be in favor of the
 Assoc1at1on and shall be for the benefit of the Association The Association shall have the
@@ -136,7 +136,7 @@ of the Assoc1at1on.
 The lien for assessment
 provided for in this Article shall be subordinate to the hen of any first mortgage. Sale or
 transfer of any Lot shall not affect the assessment lien. However, the sale or transfer of any
-Lot pursuant to a mortgage foreclosure, or any proceeding m heu thereof, shall extinguish
+Lot pursuant to a mortgage foreclosure, or any proceeding in heu thereof, shall extinguish
 the lien created pursuant to this Article as to payments which become due prior to such sale
 or transfer. No sale or transfer, however, shall relieve such Lot from liability for any
 assessments which thereafter become due or from the hen thereof.
@@ -153,5 +153,5 @@ In the event there 1s a
 deficit between the actual operating expenses of the Assoc1at1on (but speclf1cally not
 including an allocation for capital reserves), and the sum of the annual, special and specific
 assessments collected by the Association in any fiscal year, Declarant, or its members
-md1v1dually, may, m their sole d1scret1on, contribute funds to the Assoc1at1on rn order to
+md1v1dually, may, in their sole d1scret1on, contribute funds to the Assoc1at1on rn order to
 satisfy the shortfall, or any portion thereof.

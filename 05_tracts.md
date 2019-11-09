@@ -12,7 +12,7 @@ all present and future owners and occupiers of the land subject to the tract/sen
 and buffer the obllgat1on, enforceable on behalf of the public by King County, to leave
 undisturbed all trees and other vegetation within the tract/sens1t1ve area and buffer. The
 vegetation within the tract/sens1t1ve area and buffer may not be cut, pruned, covered by fill,
-removed, or damaged without approval m writing from King County Department of
+removed, or damaged without approval in writing from King County Department of
 Development and Environmental Services, or its successor agency, unless otherwise
 provrded by law. The common boundary between the tract/sens1t1ve area and buffer and the
 area of development act1v1ty must be marked or otherwise flagged to the sat1sfact1on of Kmg
@@ -45,7 +45,7 @@ and maintained by the Association.
 Tracts U, Z, and AB are on-site recreation tracts
 and shall be owned and maintained by the Association. Tract U shall also contain entry
 monuments, s1gnage, and landscaping. Tract U 1s also subject to a public sanitary sewer
-easement m favor of Sammamish Plateau Water and Sewer 01stnct.
+easement in favor of Sammamish Plateau Water and Sewer 01stnct.
 
 ## Section 5. Drainage Tract.
 

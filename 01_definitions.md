@@ -60,7 +60,7 @@ corporation; and BURNSTEAD CONSTRUCTION COMPANY, a Washington corporation.
 ## Section 8.
 
 "Architectural Control Committee" shall refer to the duly appointed or
-elected committee of the Board of Directors as outlined m Article XI of this Declaration,
+elected committee of the Board of Directors as outlined in Article XI of this Declaration,
 hereinafter referred to as the ·committee•.
 
 ## Section 9.

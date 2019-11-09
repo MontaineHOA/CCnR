@@ -13,13 +13,13 @@ be managed and the Association organized at the sole d1scret1on of the Declarant
 
 ## Section 2. Initial Board.
 
-Declarant may, m its sole d1scret1on, and at such times
+Declarant may, in its sole d1scret1on, and at such times
 as the Declarant deems appropriate, appoint three persons who may be Owners, or are
 representatives of corporate ent1t1es or other ent1t1es which are Owners, as an Initial Board.
 This Initial Board shall have full authority and all rights, responsib1ht1es, privileges and duties
 to manage the Properties under this Declaration and shall be subject to all provisions of this
 Declaration, the Articles and the Bylaws, provided that after selecting the Initial Board, the
-Declarant, m the exercise of its sole d1scret1on, may at any time terminate the Initial Board
+Declarant, in the exercise of its sole d1scret1on, may at any time terminate the Initial Board
 and reassume its management authority under Article II or select a new Board under this
 section of Article II.
 
@@ -38,7 +38,7 @@ defined as ''the authority or power to act for another, 1n person, or by documen
 authority''. In other words, an Owner may designate another md1v1dual to act on their behalf.
 The Board of Directors and Officers of the Assoc1at1on may be elected by a majority vote of
 said quorum. If a quorum shall not be present, the Development Period shall nevertheless
-terminate on that date specified m said notice and it shall thereafter be the responsibility of
+terminate on that date specified in said notice and it shall thereafter be the responsibility of
 the Owners to provide for the operation of the Association.
 
 ## Section 4. Management of Properties During Development Period
@@ -51,7 +51,7 @@ Declaration.
 ## Section 5. Purpose of Development Period.
 
 These requirements and
-covenants are made to ensure that the Properties shall be adequately administered m the
+covenants are made to ensure that the Properties shall be adequately administered in the
 1rnt1al stages of development and to ensure an orderly trans1t1on to Assoc1at1on operations.
 Each Owner accepts this management authority 1n Declarant
 
@@ -59,7 +59,7 @@ Each Owner accepts this management authority 1n Declarant
 
 During the
 Development Period, Declarant, or any agent of Declarant, shall have the sole d1scret1on to
-use and consume all or so much of the dues paid m as in Declarant's Judgment is necessary
+use and consume all or so much of the dues paid in as in Declarant's Judgment is necessary
 or expedient in maintaining the Common Maintenance Areas and carrying out the other
 functions of the Association. This includes, but 1s not limited to, any legal fees associated
 with Declarant, or any agent of Declarant carrying out any duties during the Development

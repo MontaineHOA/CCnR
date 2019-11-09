@@ -8,7 +8,7 @@ consist of no less than one Lot.
 
 ## Section 2. Property Use Restrictions.
 
-No Lot shall be used m a fashion which
+No Lot shall be used in a fashion which
 unreasonably interferes with the Owner's right to use and en1oy their respective Lots or
 Common Maintenance Areas. The Board, the Committee designated by 1t, or the Declarant
 shall determine whether any given use of the Properties and/or Lot unreasonably interferes
@@ -44,9 +44,9 @@ the Owner of the Lot on which the structure 1s located.
 ## Section 6. Mining.
 
 No oil dnlhng, oil development operations, otl refmmg,
-quarrymg, or mmmg operation of any kmd shall be permitted on or m any Lot, nor shall oil
+quarrymg, or mmmg operation of any kmd shall be permitted on or in any Lot, nor shall oil
 wells, tanks, tunnels, mineral excavation of shafts be permitted on or 1n any Lot. No derrick
-or other structure designed for use m boring for 011 or natural gas shall be erected,
+or other structure designed for use in boring for 011 or natural gas shall be erected,
 maintained or permitted upon any Lot
 
 ## Section 7. Animals
@@ -57,13 +57,13 @@ allowed to run at large. Dogs shall be kept on a leash or otherwise confined in 
 acceptable to the Board whenever outside the dwelling Lot Owners shall be responsible for
 the removal of their arnmal's waste wherever it is deposited within the Property. Dog runs
 and enclosures shall be kept clean and odor free at all times. Those pets which are
-permitted to roam free, or, m the sole discretion of the Board, make objectionable noise,
+permitted to roam free, or, in the sole discretion of the Board, make objectionable noise,
 endanger the health or safety of, or constitute a nuisance or mconvemence to the occupants
 of other Lot Owners, shall be removed on the Board's request. If the pet owner fails to
 honor such request, the Board may remove the pet. Pets shall be registered, licensed and
 inoculated as required by law.
 
-If an 1nvest1gat1on of the Board 1nd1cates animals are kept m violation of this section, the
+If an 1nvest1gat1on of the Board 1nd1cates animals are kept in violation of this section, the
 Board shall give the Owner ten (1 O) days' written notice of the v1olat1on. Such violations
 must be remedied by the Owner within ten (10) days. Failure to comply with the written
 notice will result in a fine of $25 per day, plus late fees. The Assoc1at1on shall be entitled to

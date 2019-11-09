@@ -23,7 +23,7 @@ accordance with the specifications which are set forth 1n the Bylaws. The Board,
 benefit of all the Properties and the Owners, shall enforce the prov1s1ons of this Declaration
 and the Bylaws. In add1t1on to the duties and powers imposed by the Bylaws and any
 resolution of the Assoc1at1on that may be hereafter adopted, the Board shall have the power
-and be responsible for the following, m way of explanation, but not hmitat1on.
+and be responsible for the following, in way of explanation, but not hmitat1on.
 
 (1) Insurance. Obtain pohc1es of general habihty insurance
 
@@ -70,14 +70,14 @@ Maintenance Areas with capital improvements to such Common Maintenance
 Areas, subject to the terms of Article VII, Section 6.
 
 (x) Right of Entrv. Enter any Lot or Residence when reasonably necessary in the
-event of emergencies or m connection with any maintenance, landscaping or
+event of emergencies or in connection with any maintenance, landscaping or
 construction for which the Board 1s responsible. Except in cases of
 emergencies, the Board, its agents or employees shall attempt to give notice
 to the Owner or occupant of any Lot or Residence twenty-four (24) hours prior
 to such entry. Such entry must be made with as little inconvenience to the
 Owners as practicable and any damage caused thereby shall be repaired by
 the Board if the entry was due to an emergency (unless the emergency was
-caused by the Owner of the Lot entered, m which case the cost shall be
+caused by the Owner of the Lot entered, in which case the cost shall be
 specially assessed to the Lot). If the repairs or maintenance activities were
 necessitated by the Owner's neglect of the Lot, the cost of such repair or
 maintenance act1v1ty shall be specially assessed to that Lot. If the emergency
@@ -90,7 +90,7 @@ the members and their guests and establish penalties for any infraction
 thereof.
 
 (x11) Declaration of Vacancies. Declare the office of a member of the Board to be
-vacant m the event that a member of the Board 1s absent from three
+vacant in the event that a member of the Board 1s absent from three
 consecutive regular meetings of the Board.
 
 (x111) Employment of Manager. Employ a manager, an independent contractor, or

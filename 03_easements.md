@@ -7,7 +7,7 @@ granted to the regional telephone provider, regional cable telev1s1on provider, 
 Energy, and Sammamish Plateau Water and Sewer D1stnct and their respective successors
 and assigns, under and upon the exterior ( 1 0) feet, or as shown hereon, parallel with and
 ad1oming the frontage of all streets dedicated as part of this Plat, of all Lots and Tracts,
-except Tracts U and W , m which to install, lay, construct, renew, operate and maintain water
+except Tracts U and W , in which to install, lay, construct, renew, operate and maintain water
 system faciht1es, sewer system fac1lit1es, minor sidewalk improvements constructed around
 mailbox stands, private storm sewer fac11it1es, underground conduits, mains, cables, and
 wires with necessary faciht1es and other equipment for the purpose of serving this
@@ -20,7 +20,7 @@ Owners directly benefit 1n the original "as constructed" location. These easemen
 upon for these purposes shall be restored as near as possible to their ongmal cond1t1on by
 said entering utility. No Imes or wires for the transmission of electric current, telephone, or
 cable T.V. shall be placed or be permitted to be placed upon any Lot unless the same shall
-be underground or m conduit attached to a building.
+be underground or in conduit attached to a building.
 
 ## Section 2. Water and Sewer Easements.
 
@@ -34,7 +34,7 @@ easements at all times, with all necessary maintenance and construction equipmen
 purposes stated. Structures including fences and rockenes shall not be constructed on any
 area reserved for these easements. No structure shall be erected over, upon, or within, and
 no trees, bushes or other shrubbery shall be planted in the area of ground tor which the
-easement m favor of Sammamish Plateau Water and Sewer District has been provided
+easement in favor of Sammamish Plateau Water and Sewer District has been provided
 harem. Said easement shall be restored by the ut1hty, as nearly as reasonably possible, t o
 its cond1t1on pnor to any material disturbance from construction, operation, maintenance,
 repair, or replacement of water and sewer fac1ht1es.
@@ -69,7 +69,7 @@ and 70.
 
 All Lots shall be subject to an
 easement ten (10) feet in width along all front property hnes, two and one-half (2.5) feet m
-width, parallel with and adjacent to all interior Lot lines and five (5) feet m width, parallel with
+width, parallel with and adjacent to all interior Lot lines and five (5) feet in width, parallel with
 and adjacent to all rear Lot lines for the purpose of private drainage. In the event Lot lines
 are adjusted after the recording of the Plat, the easements shall move with the adjusted Lot
 lines. Maintenance of all private drainage and utility easements on the Plat shall be the
@@ -108,7 +108,7 @@ Lots 71, 72, 73, and 7 4.
 formal plat procedure.;
 (1i) No Lot or portion of a Lot in the Plat shall be d1v1ded and sold or resold or
 ownership changed or transferred whereby the ownership of any portion of
-the Lot shall be less than the area required for the use district m which
+the Lot shall be less than the area required for the use district in which
 located.;
 (111) Street trees have been planted by the Declarant. All street trees shall be
 owned and maintained by the Assoc1at1on unless and/or until King County or
@@ -117,7 +117,7 @@ shall have the right to tnm trees and all Owners hereby waive any and all
 objection to such tnmmmg. No Owner may remove a street tree but shall
 notify the Association 1f the street tree appears diseased or dead.;
 (1v) King County shall be responsible for maintaining all rights-of-way within the
-Plat. All planter islands m the rights-of-way and cul-de-sacs shall be
+Plat. All planter islands in the rights-of-way and cul-de-sacs shall be
 maintained by the Association;
 (v) The Assoc1at1on shall establish and periodically update "Rules and
 Regulations" which shall apply to all Lot Owners within Montaine at Aldarra.
@@ -133,6 +133,6 @@ Maintenance Areas or to another Lot or the improvements thereon;
 (m) Cleaning, maintenance, repair, or restoration work which the Owner 1s
 required to do but has failed or refused to do, and
 (iv) The removal of Vehicles, goods, equipment, devices or other objects which
-are parked or stored m v1olat1on of the terms of this Declaration
+are parked or stored in v1olat1on of the terms of this Declaration
 Except in an emergency where advanced notice 1s not possible, these easements shall be
 exercised only after reasonable notice to the Owner.

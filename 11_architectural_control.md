@@ -24,7 +24,7 @@ exterior structures to be placed upon the Lots or Properties No exterior add1t1o
 structural alteration may be made until plans and specif 1cat1ons showing the nature, kind,
 shape, heights, materials and location of the proposed structure or alteration have been
 submitted to and approved, in writing, by the Committee. The Committee shall also review
-proposals to change the exterior color of residences m the community. The Committee shall
+proposals to change the exterior color of residences in the community. The Committee shall
 determine whether the exterior design and location of the proposed structure, alteration, or
 color change harmonizes with the surrounding structures, surrounding natural and built
 environment, and aesthetic character of other residences in the Montame at Aldarra
@@ -55,7 +55,7 @@ by the members of the Committee.
 
 All plans and specifications
 required to be submitted to the Committee shall be submitted by mail to the address of the
-Committee m duplicate. The written subm1ss1on shall contain the name and address of the
+Committee in duplicate. The written subm1ss1on shall contain the name and address of the
 Owner submitting construction plans and specs which include, but are not limited to. a site
 plan, architectural, grading, lighting, and landscape plans. The plans and spec1ficat1ons
 should contain the following information:
@@ -82,7 +82,7 @@ roof.,
 (v1) Landscape plan Indicate species of plant material, size and height, and
 location.; and
 
-(vu) Other information which may be required m order to determme whether the
+(vu) Other information which may be required in order to determme whether the
 standards in this Declaration and the Design Guidelines set forth and
 referenced to rn Article XII I, Section 2, have been met.
 
@@ -93,7 +93,7 @@ authority to establish aesthetic standards for evaluating development proposals.
 Committee shall determine whether the external design, color, building materials,
 appearance, setbacks, height, conf1gurat1on, and landscaping of the proposed structure
 harmonize with the various features of the natural and built environment, the aesthetic
-character of the other homes m the Montame at Aldarra community, and any other factors
+character of the other homes in the Montame at Aldarra community, and any other factors
 which affect the desirab1h ty or sU1tabihty of a proposed structure or alteration.
 
 ## Section 8. Exclusions.
@@ -107,7 +107,7 @@ Design Guidelines set forth and referenced to in Section XIII below.
 
 Within thirty (30) days after the receipt of
 plans and specifications, the Committee shall approve or disapprove the proposed
-improvement. The Committee may decline to approve plans and spec1ficat1ons which, m its
+improvement. The Committee may decline to approve plans and spec1ficat1ons which, in its
 opinion, do not conform to restrictions articulated 1n this Declaration or to its aesthetic
 standards. The Committee shall indicate its approval or disapproval on one of the copies of
 the plans and spec1f1cat1ons provided by the applicant and shall return the plans and
@@ -124,7 +124,7 @@ satisfying all local building codes and requ irements rests with the Owner and c
 employed by the Owner. The Committee has no respons1b1hty for ensuring that plans and
 specif1cat1ons which rt reviews comply with relevant building and zoning requirements. No
 person on the Committee or acting on behalf of the Committee shall be held responsible for
-any defect m any plans or specif1cat1ons which are approved by the Committee nor shall any
+any defect in any plans or specif1cat1ons which are approved by the Committee nor shall any
 member of the Committee or any person acting on behalf of the Committee be held
 responsible for any defect in a structure which was built pursuant to plans and spec1f1cat1ons
 approved by the Committee.
@@ -132,7 +132,7 @@ approved by the Committee.
 ## Section 1 1 . Variation
 
 The Committee shall have the authonty to approve plans
-and specifications which do not conform to these restrictions m order to (1 ) overcome
+and specifications which do not conform to these restrictions in order to (1 ) overcome
 practical diff1cult1es or (2) prevent undue hardship from bemg imposed on an Owner as a
 result of applying these restrictions. However, such variations may only be approved in the
 event the variation will not ( 1 ) place a detrimental impact on the overall appearance of the

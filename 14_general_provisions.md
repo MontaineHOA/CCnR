@@ -7,7 +7,7 @@ the land and be binding on all parties and persons claiming under them for a per
 (30) years from the date these covenants are recorded, after which time the covenants shall
 be automatically extended for successive periods of ten (10) years unless an instrument
 signed by a maJOTlty of the individuals then owning Lots has been recorded which reflects
-their intent to amend the covenants m whole or in part.
+their intent to amend the covenants in whole or in part.
 
 ## Section 2. Amendment.
 
@@ -18,7 +18,7 @@ the Development Period by any instrument signed by both the Declarant and the Ow
 at least fifty-one percent (51%) of the Lots, mcludmg those owned by the Declarant. The
 prov1s1ons expressly ref erring to the Declarant may not be amended without the Declarant's
 approval. The Declarant may, unilaterally, dunng the Development Period, file for record an
-amendment to this Declaration legally descnbmg the Other Parcels, as defined m Article XIV,
+amendment to this Declaration legally descnbmg the Other Parcels, as defined in Article XIV,
 Section 8. All amendments must be filed with the office of the King County Auditor.
 
 ## Section 3. Enforcement.
@@ -70,7 +70,7 @@ by this Declaration. The character of the improvements which may be later added 
 Properties on other parcels shall be compatible with improvements already existing on the
 Properties; provided, however, that Declarant may develop the other parcels for any lawful
 purpose that is allowed by applicable laws and regulations. All easements for ingress,
-egress, ut1ht1es and use of fac1ht1es, unless otherwise specifically limited, shall exist m favor
+egress, ut1ht1es and use of fac1ht1es, unless otherwise specifically limited, shall exist in favor
 of all Owners in the Other Parcels.
 
 During the Development Period, the addition of Other Parcels to the Properties shall occur
@@ -104,11 +104,11 @@ the Board.
 Each Director, Officer, and Declarant shall be
 indemnified by the Association, against all expenses and hab1ht1es, including attorneys' fees,
 reasonably incurred by or imposed in connection with any proceeding to which such person
-may be a party, or m which such person may become involved, by reason of holding or
+may be a party, or in which such person may become involved, by reason of holding or
 having held such pos1t1on, or any settlement thereof, whether or not such person holds such
 pos1t1on at the time such expenses or liab1ht1es are incurred, except t o the extent such
 expenses and habilit1es are covered by insurance actually obtained by the Board and except
 m such cases wherein such Director or Declarant 1s adjudged guilty of willful misfeasance m
-the performance of his or her duties; provided that m the event of a settlement, the
+the performance of his or her duties; provided that in the event of a settlement, the
 indemnification shall apply only when the Board approves such settlement and
 reimbursement as being for the best interests of the Assoc1at1on.
