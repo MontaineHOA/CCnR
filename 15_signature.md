@@ -28,7 +28,7 @@ behalf of􀀅􀀃=-􀀂'
 STATE OF WASHINGTON )
 AND OFFICIAL SEAL hereto affixed e day and year first
 􀀄􀀅 NOTARY PUBLIC in and for the State
-ot,Washmgton, residing at 􀀋􀀌!>mo/!/ 2:>
+ot,Washington, residing at 􀀋􀀌!>mo/!/ 2:>
 7
 (Print Name)
 My Commission Expires· &, · / 7 o t
