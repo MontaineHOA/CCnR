@@ -1,6 +1,8 @@
-ARTICLE Ill
-EASEMENTS
-Section 1. Easements for Utilities. An easement 1s hereby reserved for and
+# ARTICLE Ill - EASEMENTS
+
+## Section 1. Easements for Utilities.
+
+An easement 1s hereby reserved for and
 granted to the regional telephone provider, regional cable telev1s1on provider, Puget Sound
 Energy, and Sammamish Plateau Water and Sewer D1stnct and their respective successors
 and assigns, under and upon the exterior ( 1 0) feet, or as shown hereon, parallel with and
@@ -19,7 +21,10 @@ upon for these purposes shall be restored as near as possible to their ongmal co
 said entering utility. No Imes or wires for the transmission of electric current, telephone, or
 cable T.V. shall be placed or be permitted to be placed upon any Lot unless the same shall
 be underground or m conduit attached to a building.
-Section 2. Water and Sewer Easements. An easement 1s reserved and granted
+
+## Section 2. Water and Sewer Easements.
+
+An easement 1s reserved and granted
 to SAMMAMISH PLATEAU WATER AND SEWER DISTRICT over, under, through and upon
 the easements shown on the Plat described as "Sanitary Sewer Easement" or 'Water
 Easement" for access, ingress, egress, and to install, lay, construct, maintain, inspect,
@@ -33,7 +38,10 @@ easement m favor of Sammamish Plateau Water and Sewer District has been provided
 harem. Said easement shall be restored by the ut1hty, as nearly as reasonably possible, t o
 its cond1t1on pnor to any material disturbance from construction, operation, maintenance,
 repair, or replacement of water and sewer fac1ht1es.
-Section 3. Public Drainage Easements. All drainage easements within this
+
+## Section 3. Public Drainage Easements.
+
+All drainage easements within this
 Plat, not shown as "Private" are hereby granted and conveyed to Kmg County, a political
 subd1v1s1on of the State of Washington, for the purpose of conveying, storing, managing and
 facilitating storm and surface water per the engineering plans approved for this Plat by King
@@ -56,7 +64,10 @@ DOES or its successor agency.
 The following listed Tracts and Lots are subject to a public drainage easement as shown on
 the Plat: Tracts S, U, V, Z, AB, AC, and AR; and Lots 12, 29, 35, 36, 37, 38, 49, 50, 54, 61,
 and 70.
-Section 4. Private Drainage Restrictions. All Lots shall be subject to an
+
+## Section 4. Private Drainage Restrictions.
+
+All Lots shall be subject to an
 easement ten (10) feet in width along all front property hnes, two and one-half (2.5) feet m
 width, parallel with and adjacent to all interior Lot lines and five (5) feet m width, parallel with
 and adjacent to all rear Lot lines for the purpose of private drainage. In the event Lot lines
@@ -90,7 +101,9 @@ The easement located on Lots 72 and 73 and benefits Lots 71, 72, 73, and 74. The
 easement located on Lot 9 benefits Lot 1 . The easement located on Lots 12 through 21 ,
 inclusive, benefits Lots 12 through 21, inclusive. The easement located on Tract W benefits
 Lots 71, 72, 73, and 7 4.
-Section 5. Miscellaneous Easements and Restrictions
+
+## Section 5. Miscellaneous Easements and Restrictions
+
 (i) No further subd1v1s1on of any Lot shall be allowed without resubmrttal for
 formal plat procedure.;
 (1i) No Lot or portion of a Lot in the Plat shall be d1v1ded and sold or resold or
