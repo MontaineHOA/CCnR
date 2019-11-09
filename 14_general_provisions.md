@@ -70,7 +70,7 @@ by this Declaration. The character of the improvements which may be later added 
 Properties on other parcels shall be compatible with improvements already existing on the
 Properties; provided, however, that Declarant may develop the other parcels for any lawful
 purpose that is allowed by applicable laws and regulations. All easements for ingress,
-egress, utihties and use of facihties, unless otherwise specifically limited, shall exist in favor
+egress, utihties and use of facilities, unless otherwise specifically limited, shall exist in favor
 of all Owners in the Other Parcels.
 
 During the Development Period, the addition of Other Parcels to the Properties shall occur

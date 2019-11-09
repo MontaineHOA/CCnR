@@ -8,9 +8,9 @@ Energy, and Sammamish Plateau Water and Sewer Distnct and their respective succe
 and assigns, under and upon the exterior ( 1 0) feet, or as shown hereon, parallel with and
 adioming the frontage of all streets dedicated as part of this Plat, of all Lots and Tracts,
 except Tracts U and W , in which to install, lay, construct, renew, operate and maintain water
-system facihties, sewer system facilities, minor sidewalk improvements constructed around
-mailbox stands, private storm sewer faciiities, underground conduits, mains, cables, and
-wires with necessary facihties and other equipment for the purpose of serving this
+system facilities, sewer system facilities, minor sidewalk improvements constructed around
+mailbox stands, private storm sewer facilities, underground conduits, mains, cables, and
+wires with necessary facilities and other equipment for the purpose of serving this
 subdivision and other property with electric, telephone, T.V., gas, water, sewer, and other
 utility service, together with the right to enter upon the Lots at all times for the purpose herein
 stated. In addition to the beneficiaries stated above, the underlying Lot Owners adjacent to
@@ -37,7 +37,7 @@ no trees, bushes or other shrubbery shall be planted in the area of ground tor w
 easement in favor of Sammamish Plateau Water and Sewer District has been provided
 harem. Said easement shall be restored by the utihty, as nearly as reasonably possible, t o
 its condition pnor to any material disturbance from construction, operation, maintenance,
-repair, or replacement of water and sewer facihties.
+repair, or replacement of water and sewer facilities.
 
 ## Section 3. Public Drainage Easements.
 
@@ -47,14 +47,14 @@ subdivision of the State of Washington, for the purpose of conveying, storing, m
 facilitating storm and surface water per the engineering plans approved for this Plat by King
 County, together with the nght of reasonable access (ingress and egress), to enter said
 drainage easement for the purpose of inspecting, operating, mamtaming, repamng and
-improving the drainage facihties contained therein. Note that except for the facihties which
+improving the drainage facilities contained therein. Note that except for the facilities which
 have been formally accepted for maintenance by King County, maintenance of drainage
 facihties on private property is the responsibility of the property owner.
 Lot Owners are required to obtain prior written approval from King County Property Services,
 and any required permits from Kmg County ODES such as clearing and grading, prior to
 filling, piping, cutting or removing vegetation (except for routine landscape maintenance such
 as lawn mowing) in open vegetated drainage facilities (such as swales, channels, ditches,
-ponds, etc)., or performing any alterations or modifications to the drainage facihties
+ponds, etc)., or performing any alterations or modifications to the drainage facilities
 contained within said drainage easement.
 Structures, fill, or obstructions (including but not hmited to decks, patios, outbuildings or
 overhangs) shall not be permitted beyond the building setback hne of the public drainage
@@ -81,21 +81,21 @@ convey to King County, a political subdivision of the State of Washington, the r
 the obligation to convey or store storm and surface water per the engineering plans
 approved for this Plat by King County, together with the right of reasonable access (ingress
 and egress), to enter said drainage easements for the purpose of observing that Lot Owners
-are properly operating and maintaining the drainage facihties contained therein.
+are properly operating and maintaining the drainage facilities contained therein.
 The owners of those Lots contammg said private drainage easements are responsible for
-operating, maintaining and repamng the drainage facihties contained within said drainage
+operating, maintaining and repamng the drainage facilities contained within said drainage
 easements, and are hereby required to obtain any required permits, from the King County
 Department of Development and Environmental Services pnor to filhng, piping, cutting or
 removing vegetation (except for routine landscape maintenance such as lawn mowing) m
-open vegetated drainage facihties (such as swales, channels, ditches, ponds, etc.), or
-performing any alterations or modificatlons to the drainage facihties, contained with said
+open vegetated drainage facilities (such as swales, channels, ditches, ponds, etc.), or
+performing any alterations or modificatlons to the drainage facilities, contained with said
 drainage easements.
 The following listed tracts and lots are subiect to a Pnvate Storm Drainage Easement as
 shown on the Plat. These are for the purpose of instalhng and maintaining private storm
-drainage facihties within said easements with restrictions as described above. Said
+drainage facilities within said easements with restrictions as described above. Said
 easements are in favor of the lots or tracts listed below as denvmg benefit. The Owners of
 said lots or tracts deriving benefit shall be responsible for the maintenance, repairs or
-reconstruction of that portion of the Private Storm Drainage Facihties below their respective
+reconstruction of that portion of the Private Storm Drainage Facilities below their respective
 point of connection.
 The easement located on Lots 72 and 73 and benefits Lots 71, 72, 73, and 74. The
 easement located on Lot 9 benefits Lot 1 . The easement located on Lots 12 through 21 ,

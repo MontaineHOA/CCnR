@@ -19,7 +19,7 @@ month of the election of the Board following the termination of the Development 
 
 The Committee, or Declarant if a
 Committee has not been appointed, shall review proposed plans and specifications for
-residences, accessory structures, fences, walls, appurtenant recreational facihties other
+residences, accessory structures, fences, walls, appurtenant recreational facilities other
 exterior structures to be placed upon the Lots or Properties No exterior addition or
 structural alteration may be made until plans and specif ications showing the nature, kind,
 shape, heights, materials and location of the proposed structure or alteration have been
