@@ -55,7 +55,7 @@ Lot Owners; or interferes with any retaining and/or keystone wall grids.
 No signs, billboards, or other advertising structure or device shall be
 displayed to the public outlook on any Lot, except one sign not to exceed four
 (4) square feet in area, may be placed on a Lot to offer the Lot for sale or
-rent. All such signs shall be of a q uahty equivalent to those used by
+rent. All such signs shall be of a quality equivalent to those used by
 Declarant. Furnished model homes may have more than one sign for
 advertising purposes.
 
