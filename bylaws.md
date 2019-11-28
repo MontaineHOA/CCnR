@@ -160,7 +160,6 @@ shall be as follows unless dispensed with on motion:
 
 (i) Adjournment
 
-
 #### 2.3 Suspension of Voting Rights
 
 During any period in which an Owner shall be in default in the payment of any
