@@ -28,8 +28,8 @@ only a single choice.  The options were amended to now list the following three 
 
 The Kingston Clay mix contains the following:
 * 3 gallons of Parker Prohide (product)
-• Kingston Clay (color)
-• 2 gallons of Parker Woodlite clear
+* Kingston Clay (color)
+* 2 gallons of Parker Woodlite clear
 
 ## Unenforceable Provisions of CCnRs
 
