@@ -98,7 +98,7 @@ determine that there is an unreasonable interference, it shall notify the Owner 
 shrub in writing, specifying the nature of the interference, what should be done to eliminate
 the interference, and the time in which such action must be taken.
 
-## Section 1O - Protection of Trees
+## Section 10 - Protection of Trees
 
 Owners shall not cut down street trees located
 within the Properties. Owners shall notify the Board of any dead or diseased tree located on
